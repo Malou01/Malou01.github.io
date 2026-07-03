@@ -1,7 +1,7 @@
 {
   "version": "1.4",
-  "build": 105,
+  "build": 106,
   "firmwareUrl": "https://malou01.github.io/firmware/project-arduino-v551.bin",
-  "sha256": "bace0ca7b7eeaaa64d56b248f26a7a9fa8caa94ac46e2113d5a08e1f72b432b0",
-  "signature": "MEUCIQDFPvnFj3nohgA/YXXU/RzEsObUi66SU7Wuwz7DNYjvyQIgIebCd3SsUsZM3LqtmPLv9kgNu+DsT9hvAaN4TvbtzJc="
+  "sha256": "1ca3d308a483cb26f80a4d39d004823fb22f8187960f9d16b7b41aa00ef38f79",
+  "signature": "MEUCIDdyIY4kULid8GDxUTBrcBRL9AaXlJQERyf4jpeHYnLeAiEAmonrJIiMPpsRSluH0LfbOh+yAbL2YtCcfpIy9rDctvU="
 }
