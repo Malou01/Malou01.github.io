@@ -1,7 +1,7 @@
 {
   "version": "1.4",
-  "build": 111,
-  "firmwareUrl": "https://malou01.github.io/firmware/project-arduino-v551.bin",
-  "sha256": "3ba0f01e6d5b26cfe78771523b01a29e875b66d71e611ed897eba6c46f1d2981",
-  "signature": "MEUCIFkpFq0++F3tFFNr2tQFKJd3NNy11IMzTWQcWzXUKcv+AiEAgfr3eBBgm/uhrXhrg8PYnI6CSswq/GBE+typKBHIfxA="
+  "build": 112,
+  "firmwareUrl": "https://malou01.github.io/firmware/blinkstar-incubator-controller.bin",
+  "sha256": "621bf45303dccf36cae1e1e0affeae08a90c1c1034d1e194e1ec35d005cc28c8",
+  "signature": "MEQCIGBcnZciGPa5xnCX+3utfqSdhQpk+PoRqOJyCf6t/s/eAiBr2Ovcx0R/ucx0NUnUDO+oBXhjdcgNOORaRTz68nsgZA=="
 }
