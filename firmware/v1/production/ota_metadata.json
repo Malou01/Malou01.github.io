@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "artifactId": "501aa82500e721d19fda00eb6823eed1",
-  "artifact": "blinkstar-incubator-controller-142.bsota",
-  "artifactSha256": "51b05b8bc976b89ded15b21464901dc07f008be3c750b61b7dc59f4b5cd578ab",
-  "manifestSha256": "4e03f9248e3104aae43b0ff966b268f3a2f5ef86afc404138556e7e16bfc0a46",
-  "imageSha256": "c8fdd23c6230b117d8adec9eaaf113710de707ac235af7eca7916eaa4a60f5dd",
-  "build": 142,
+  "artifactId": "fd3e491686418a2a5e0d86b751b93531",
+  "artifact": "blinkstar-incubator-controller-143.bsota",
+  "artifactSha256": "463ece721f3a76494f8575321f1ec1221716139849ea45505666d5115e7f4cb6",
+  "manifestSha256": "7b41a7f1a899593d432e8e10837a30390b7d7011ae8f7dc8cdb9c26b923d32d6",
+  "imageSha256": "f26fc6c60bf0bbb8f789a5dc7dad63fc60223ff69d9cbe3dc401542a33e075c4",
+  "build": 143,
   "secureVersion": 1,
   "chunkCount": 448
 }
