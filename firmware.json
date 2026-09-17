@@ -1,7 +1,7 @@
 {
-  "version": "1.5.24",
-  "build": 158,
-  "firmwareUrl": "https://malou01.github.io/firmware/blinkstar-incubator-controller-158.bin",
-  "sha256": "9cff80475452f8403f29eb655f48cd26bfeea5ccc9baeea45f98569cea05d0a4",
-  "signature": "MEUCIGcjWAJ6F2lqeB+pSSAGuzSGu2UymxyqsxYgRl4pJsTNAiEAp/EPIgJyrxF5JNAEtIEOXGOs1ltz3SUkEhsSdLeRZiM="
+  "version": "1.5.25",
+  "build": 159,
+  "firmwareUrl": "https://malou01.github.io/firmware/blinkstar-incubator-controller-159.bin",
+  "sha256": "638ea92129a7b372a22462e054f999814ebf725ffc33907b281e8f3d9d45d64c",
+  "signature": "MEUCIQDzwdAdOXBe0MGlah6gayTC2bg945FqXJgtH7kUnccZdgIgSt514ouun0N6JEbuQjsBSb1rrsnOzejPnStXpd9qesE="
 }
